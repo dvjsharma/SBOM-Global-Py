@@ -1,0 +1,4 @@
+.pypirc
+build/
+dist/
+devcoderopop.egg-info/
